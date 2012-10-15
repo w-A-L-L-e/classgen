@@ -275,7 +275,7 @@ algorithm   :algorithm from book for Julian Day
 -----------------------------------------------------------------------------*/
 bool Date::isleapyear() const{
 	int y=year();
-	if ( y%4==0 & y%400!=0 ){
+	if ( (y%4==0) & (y%400!=0) ){
 		return true;
 	}
 	else{
