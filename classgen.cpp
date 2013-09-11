@@ -1,8 +1,8 @@
 /*=============================================================================
 author        :Walter Schreppers
-filename      :precompile.cpp
-created       :/
-modified      :15/05/2001
+filename      :classgen.cpp
+created       :15/5/2001
+modified      :11/9/2013
 version       :4
 copyright     :Walter Schreppers
 bugreport(log):/
