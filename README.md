@@ -1,5 +1,6 @@
 Classgen is a nice little tool I've used for years, never posted it cause it was implemented on a few hours and I needed to clean up the code. Still it is so useful (and never got the time to clean up the code). I'm posting it as is. Basically it is a generator that helps you pump out classes quickly command line. This thing is already 10 years old but nowadays it looks a lot like rails generators. So I just had to post it .
 
+To build just do a make and optionally sudo make install.
 
 Anyway here's me c++ scaffolding some classes Car, Mercedes, Audi etc: 
 
